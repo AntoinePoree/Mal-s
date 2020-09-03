@@ -1,0 +1,25 @@
+{
+  "generator-ngx-rocket": {
+    "version": "7.1.0",
+    "props": {
+      "location": "path",
+      "strict": false,
+      "skipInstall": false,
+      "skipQuickstart": false,
+      "initGit": true,
+      "appName": "Mal s",
+      "target": ["cordova"],
+      "mobile": ["android"],
+      "ui": "ionic",
+      "layout": "side-menu",
+      "auth": true,
+      "lazy": true,
+      "angulartics": false,
+      "tools": ["prettier", "hads"],
+      "utility": [],
+      "projectName": "mal-s",
+      "packageManager": "npm",
+      "desktop": []
+    }
+  }
+}
